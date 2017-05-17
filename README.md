@@ -1,11 +1,3 @@
-# spring17-lab2
-Names and emails of students working on the project:
-
-Student 1: Ayush Sharma
-
-Student 2: Neha Yadav
-
-
 **Steps to run on Server**
 - *Start the Name Server* Use the code python -m Pyro4.naming to start the server on a terminal. 
 - *Register processes on the server* 
